@@ -9,8 +9,8 @@
 </head>
 <body>
     <div class="container">
-        <a href="coba.php" id="tombol">
-            Hasil
+        <a href="2.php" id="tombol">
+            Tugas 2
         </a>
     </div>
 </body>
